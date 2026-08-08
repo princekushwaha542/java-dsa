@@ -1,4 +1,4 @@
-public class Main {
+public class Print {
     public static void main(String[] args) {
         int a = 5;
         System.out.print("Hello, Java!");
