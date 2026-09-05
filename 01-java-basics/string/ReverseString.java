@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package string;
+import java.util.*;
 
 public class ReverseString {
     public static void main(String[] args) {
