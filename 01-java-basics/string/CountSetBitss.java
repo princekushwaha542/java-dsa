@@ -1,6 +1,6 @@
 package string;
 
-public class CountSetBits {
+public class CountSetBitss {
     public static void main(String[] args) {
 
         int n = 13;
